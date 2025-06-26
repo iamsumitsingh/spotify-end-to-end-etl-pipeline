@@ -28,3 +28,5 @@ This project is an end-to-end data pipeline that extracts music data from the Sp
 - Power BI
 
 
+#ARCHITECTURE DIAGRAM 
+![ETL ARCHITECTURE](spotify-end-to-end-etl-pipeline/ETL_ARCHITECTURE.png)
