@@ -1,4 +1,4 @@
-# spotify-end-to-end-etl-pipeline
+# Spotify-end-to-end-etl-pipeline-data-engineering
 
 This project is an end-to-end data pipeline that extracts music data from the Spotify API and processes it using AWS cloud services. The final output is a fully queryable dataset, visualized using Power BI for analysis and insights.
 
