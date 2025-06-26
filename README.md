@@ -29,4 +29,4 @@ This project is an end-to-end data pipeline that extracts music data from the Sp
 
 
 #ARCHITECTURE DIAGRAM 
-![ETL ARCHITECTURE](spotify-end-to-end-etl-pipeline/ETL_ARCHITECTURE.png)
+![ETL ARCHITECTURE](ETL_ARCHITECTURE.png)
