@@ -28,5 +28,6 @@ This project is an end-to-end data pipeline that extracts music data from the Sp
 - Power BI
 
 
-#ARCHITECTURE DIAGRAM 
+# ARCHITECTURE DIAGRAM 
+
 ![ETL ARCHITECTURE](ETL_ARCHITECTURE.png)
